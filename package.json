@@ -16,7 +16,7 @@
   }
 , "config":         { "native" : false }
 , "main":             "./lib/bson/index"
-, "browser":          "./lib/bson/bson"
+, "browser":          "./lib/bson/browser"
 , "directories" :   { "lib" : "./lib/bson" }
 , "engines" :       { "node" : ">=0.6.19" }
 , "scripts": { 
